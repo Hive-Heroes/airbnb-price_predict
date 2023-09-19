@@ -48,4 +48,4 @@ Although the dataset did not yield the expected accuracy values, we explored var
 
 Thank you for your interest in our project! If you have any questions or feedback, please feel free to reach out.
 - berfiinduman@gmail.com
-- bikesonmez58@gmail.com
+- bikesnmz@outlook.com
